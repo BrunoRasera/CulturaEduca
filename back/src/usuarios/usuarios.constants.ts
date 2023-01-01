@@ -1,0 +1,16 @@
+export enum IdentidadeGeneroUsuarioEnum {
+  MULHER_CIS = 'MULHER_CIS',
+  HOMEM_CIS = 'HOMEM_CIS',
+  MULHER_TRANS = 'MULHER_TRANS',
+  HOMEM_TRANS = 'HOMEM_TRANS',
+  NAO_BINARIO = 'NAO_BINARIO',
+}
+
+export enum RacaCorIbgeUsuarioEnum {
+  NAO_INFORMAR = 'NAO_INFORMAR',
+  AMARELA = 'AMARELA',
+  BRANCA = 'BRANCA',
+  INDIGENA = 'INDIGENA',
+  PARDA = 'PARDA',
+  PRETA = 'PRETA',
+}

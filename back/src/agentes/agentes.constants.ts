@@ -1,0 +1,17 @@
+export enum AbrangenciaGeograficaAgenteEnum {
+  LOCAL = 'LOCAL',
+  MUNICIPAL = 'MUNICIPAL',
+  INTERMUNICIPAL = 'INTERMUNICIPAL',
+  ESTADUAL = 'ESTADUAL',
+  NACIONAL = 'NACIONAL',
+}
+
+export enum PlataformaAgenteRedeSocialEnum {
+  FACEBOOK = 'FACEBOOK',
+  INSTAGRAM = 'INSTAGRAM',
+  LINKEDIN = 'LINKEDIN',
+  OUTROS = 'OUTROS',
+  TIKTOK = 'TIKTOK',
+  TWITTER = 'TWITTER',
+  YOUTUBE = 'YOUTUBE',
+}
